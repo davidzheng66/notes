@@ -1,4 +1,3 @@
-// To compile: g++ --std=c++11 001-threadmanagement.cpp -lpthread
 #include <iostream>
 #include <thread>
 using namespace std;

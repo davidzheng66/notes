@@ -18,3 +18,15 @@
   * Never leak a handle to outside
   * Never pass ofs as an argument to user provided functions
   * Design interfaces appropriately
+  
+# 4. Deadlock
+[Video](https://www.youtube.com/watch?v=_N0B5ua7oN8&list=PL5jc9xFGsL8E12so1wlMS0r0hTQoJL74M&index=4)
+1) Avoiding Deadlock:
+  * Prefer locking single mutex
+  * Avoid locking a mutex and then calling a user-provided function
+  * Use std::lock() to lock more than one mutex
+  * Lock the mutex in same order
+2) Locking Granularity:
+  * Fine-grained lock: protects small amount of data
+  * Corse-grained lock: protects big amount of data
+ 

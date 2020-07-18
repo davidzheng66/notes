@@ -1,4 +1,5 @@
 [Concurrent Programming with C++: Boqian](https://www.youtube.com/watch?v=LL8wkskDlbs&list=PL5jc9xFGsL8E12so1wlMS0r0hTQoJL74M&index=1)
+[Other:Boqian] (https://boqian.weebly.com/c-programming.html)
 # 1. [Processes Vs Threads](https://github.com/davidzheng66/notes/blob/master/C%2B%2B/C%2B%2B11Concurrency/src/001-introduction.cpp)
 [Video](https://www.youtube.com/watch?v=f2nMqNj7vxE&list=PL5jc9xFGsL8E12so1wlMS0r0hTQoJL74M&index=1)
   * [Processes vs Threads](https://github.com/davidzheng66/Notes/blob/master/C++/C++11Concurrency/ProcessVsThreads.PNG?raw=true)
@@ -31,4 +32,5 @@
   * Corse-grained lock: protects big amount of data
 
 # 5. [Thread Pool Tutorial: How to : Code Blacksmith](https://github.com/davidzheng66/notes/blob/master/C%2B%2B/C%2B%2B11Concurrency/src/004-threadpool.cpp)
+[Original Source Code from pastebin.com](https://pastebin.com/MM5kSvH6)
 [Video](https://www.youtube.com/watch?v=eWTGtp3HXiw)

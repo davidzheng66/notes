@@ -12,4 +12,7 @@
 4) In ubuntu, cloning a repository "git clone  git@github.com:davidzheng66/notes.git" should not require password
 5) If there is an error "Permission denied (publickey)", run the command "ssh-add /home/david/.ssh/id_rsa_github"
   * If there is an error "Could not open a connection to your authentication agent", run the command "eval `ssh-agent -s`", then run the command in 5) and 4)
-  
+# UML Tools
+* [PlantText: The expert's design tool](https://www.planttext.com/)
+* [PlantUML in a nutshell](https://plantuml.com/)
+* [StarUML Software](http://staruml.io/)

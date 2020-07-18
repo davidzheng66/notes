@@ -29,4 +29,6 @@
 2) Locking Granularity:
   * Fine-grained lock: protects small amount of data
   * Corse-grained lock: protects big amount of data
- 
+
+# 5. [Thread Pool Tutorial: How to : Code Blacksmith](https://github.com/davidzheng66/notes/blob/master/C%2B%2B/C%2B%2B11Concurrency/src/004-threadpool.cpp)
+[Video](https://www.youtube.com/watch?v=eWTGtp3HXiw)

@@ -112,14 +112,13 @@ int main()
 
     for(auto i = 0; i < 5; ++i){
         pool.enqueue([&](){
-            for(auto j = 0; j < 100; ++j){
+            for(auto j = 0; j < 50; ++j){
                 std::lock_guard<std::mutex> lock(mu);
                 std::cout << "i = " << i << ",j = " << j << ", thread id: " << std::this_thread::get_id() << std::endl;
             }
         });
 
     }
-
 
 	return 0;
 }

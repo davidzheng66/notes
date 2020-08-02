@@ -1,1 +1,6 @@
-[How to make the perfect Readme.md on GitHub](https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061)
+# [Python Tutorial for Beginners(Navin Reddy)](https://www.youtube.com/watch?v=DWgzHbglNIo&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=4)
+## 1. Divsions
+  - Integer division: /
+  - Float division: //
+## 2. BODMAS
+![alt text](https://github.com/davidzheng66/notes/blob/master/Python/bodmas.PNG)

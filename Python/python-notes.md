@@ -22,10 +22,13 @@
   * values=["aaaa", "bbbb", "cccc", "dddd"]
   * data=dict(zip(keys, values)) --> {10: 'aaaa', 20: 'bbbb', 30: 'cccc', 40: 'dddd'}
 ## 5. Set path and help. [video](https://www.youtube.com/watch?v=4V14G5_CNGg&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=9) 
- * path 
+* path 
    * C:\python37
    * C:\ptyhon37\Scripts
- * PYTHONPATH: C:\python37
- * help:
+* PYTHONPATH: C:\python37
+* help:
    * help() --> topics() --> LISTS
    * help('LISTS')
+## 6. Variables. [video](https://www.youtube.com/watch?v=_OZIAHg5i7M&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=11)
+* id(num) or id(10): to get the address of object num
+* type(num) or type(10): to get the type of object num

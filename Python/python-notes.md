@@ -56,6 +56,7 @@
 * Relational: <, <=, ==, <=, >, !=
 * Logical: and, or, not
 * Unary: not
+* [Bitwise: Complement(~), and(&), or(|), xor(^), left shift(<<), right shift(>>)](https://www.youtube.com/watch?v=PyfKCvHALj8&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=18)
 ## 9 [Numeric Converstions](https://www.youtube.com/watch?v=AWAjbtWBzGs&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=14)
 * binary: bin(25) --> 0b11001
 * octal: oct(25) --> 0O31

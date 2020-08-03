@@ -21,7 +21,7 @@
   * keys=[10, 20, 30, 40]
   * values=["aaaa", "bbbb", "cccc", "dddd"]
   * data=dict(zip(keys, values)) --> {10: 'aaaa', 20: 'bbbb', 30: 'cccc', 40: 'dddd'}
-## 5. Set path and help. [video](https://www.youtube.com/watch?v=4V14G5_CNGg&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=9) 
+## 5. [Set path and help](https://www.youtube.com/watch?v=4V14G5_CNGg&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=9) 
 * path 
    * C:\python37
    * C:\ptyhon37\Scripts
@@ -29,10 +29,10 @@
 * help:
    * help() --> topics() --> LISTS
    * help('LISTS')
-## 6. Variables. [video](https://www.youtube.com/watch?v=_OZIAHg5i7M&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=11)
+## 6. [Variables](https://www.youtube.com/watch?v=_OZIAHg5i7M&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=11)
 * id(num) or id(10): to get the address of object num
 * type(num) or type(10): to get the type of object num
-## 7. Data Types. [video](https://www.youtube.com/watch?v=gCCVsvgR2KU&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=12)
+## 7. [Data Types](https://www.youtube.com/watch?v=gCCVsvgR2KU&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=12)
 * None
 * Numeric:
   * int: int(2.3) --> 2
@@ -61,3 +61,8 @@
 * octal: oct(25) --> 0O31
 * decimal: 25
 * hexadecimal: hex(25) --> 0x19
+## 10 [How to swap 2 variables](https://www.youtube.com/watch?v=3dpJrMtxYeo&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=15)
+* Way 1: a=a+b; b=a-b; a=a-b;
+* Way 2: a=a^b; b=a^b; a=a^b;
+* Way 3: a,b=b,a; (ROT_TWO())
+  

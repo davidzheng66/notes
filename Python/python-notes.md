@@ -32,3 +32,21 @@
 ## 6. Variables. [video](https://www.youtube.com/watch?v=_OZIAHg5i7M&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=11)
 * id(num) or id(10): to get the address of object num
 * type(num) or type(10): to get the type of object num
+## 7. Data Types. [video](https://www.youtube.com/watch?v=gCCVsvgR2KU&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=12)
+* None
+* Numeric:
+  * int: int(2.3) --> 2
+  * float: float(2) --> 2.0
+  * complex: complex(2,3) --> 2+3j
+  * bool: True, False
+* Sequential:
+  * list: [10,20,'aaa', 'bbb']
+  * tuple: (10,20,'aaa', 'bbb')
+  * set:  {10,20,'aaa', 'bbb'}
+  * range: list(range(5)) --> [0,1,2,3,4] 
+* dictionary (map)
+  * data = {'aaa':'python', 'bbb':'java', 'ccc':'javascript'}
+  * data['aaa'] --> 'python'
+  * data.get('aaa') -- > 'python'
+  * data.keys() --> dict_keys(['aaa', 'bbb', 'ccc'])
+  * data.values() --> dict_values(['python', 'java', 'javascript'])

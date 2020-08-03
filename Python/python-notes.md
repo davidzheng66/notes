@@ -50,3 +50,14 @@
   * data.get('aaa') -- > 'python'
   * data.keys() --> dict_keys(['aaa', 'bbb', 'ccc'])
   * data.values() --> dict_values(['python', 'java', 'javascript'])
+## 8 [Operators](https://www.youtube.com/watch?v=v5MR5JnKcZI&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=13)
+* Arithmetic: +, -, *, /, //
+* Assignment: =, +=, -=, *=, /=, //=
+* Relational: <, <=, ==, <=, >, !=
+* Logical: and, or, not
+* Unary: not
+## 9 [Numeric Converstions](https://www.youtube.com/watch?v=AWAjbtWBzGs&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=14)
+* binary: bin(25) --> 0b11001
+* octal: oct(25) --> 0O31
+* decimal: 25
+* hexadecimal: hex(25) --> 0x19

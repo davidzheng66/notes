@@ -46,6 +46,8 @@
   * range: list(range(5)) --> [0,1,2,3,4] 
   * [import array](https://www.youtube.com/watch?v=6a39OjkCN5I&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=30)
     * ![alt text](https://github.com/davidzheng66/notes/blob/master/Python/typecodes.PNG)
+  * [import numpy](https://www.youtube.com/watch?v=8LlXhtfNZEQ&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=32)
+    * ![alt text](https://github.com/davidzheng66/notes/blob/master/Python/6WaysToCreateArray.PNG)
 * dictionary (map)
   * data = {'aaa':'python', 'bbb':'java', 'ccc':'javascript'}
   * data['aaa'] --> 'python'

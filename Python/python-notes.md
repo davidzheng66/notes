@@ -48,6 +48,11 @@
     * ![alt text](https://github.com/davidzheng66/notes/blob/master/Python/typecodes.PNG)
   * [import numpy](https://www.youtube.com/watch?v=8LlXhtfNZEQ&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=32)
     * ![alt text](https://github.com/davidzheng66/notes/blob/master/Python/6WaysToCreateArray.PNG)
+    * [array copy](https://www.youtube.com/watch?v=8sF85TyunQA&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=34)
+      * aliasing: array1 = array
+      * shallow copy: array2 = array.view()
+      * deep copy: array3 = array.copy()
+      * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test2-numpy.py)
 * dictionary (map)
   * data = {'aaa':'python', 'bbb':'java', 'ccc':'javascript'}
   * data['aaa'] --> 'python'

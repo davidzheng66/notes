@@ -87,3 +87,6 @@
 * default
 * variable length arguments(*arg)
 * [keyworded variable length arguments(**kwarg)](https://www.youtube.com/watch?v=kB829ciAXo4&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=39)
+## 15 [scopes](https://www.youtube.com/watch?v=QYUbLevwgDQ&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=40)
+* global a
+* globals('a')

@@ -80,3 +80,4 @@
 * a = int(sys.argv[1])
 ## 12 [for else](https://www.youtube.com/watch?v=38svC3U7hVo&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=28)
 * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test1-forelse.py)
+## 13 [matrix](https://www.youtube.com/watch?v=Blzp9iuhZqo&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=35)

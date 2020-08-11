@@ -85,4 +85,5 @@
 * position
 * keyword
 * default
-* variable length
+* variable length arguments(*arg)
+* [keyworded variable length arguments(**kwarg)](https://www.youtube.com/watch?v=kB829ciAXo4&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=39)

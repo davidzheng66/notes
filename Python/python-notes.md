@@ -81,3 +81,8 @@
 ## 12 [for else](https://www.youtube.com/watch?v=38svC3U7hVo&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=28)
 * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test1-forelse.py)
 ## 13 [matrix](https://www.youtube.com/watch?v=Blzp9iuhZqo&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=35)
+## 14 [function](https://www.youtube.com/watch?v=eci9iU_s6Ag&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=38)
+* position
+* keyword
+* default
+* variable length

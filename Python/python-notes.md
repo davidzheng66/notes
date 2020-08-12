@@ -90,3 +90,9 @@
 ## 15 [scopes](https://www.youtube.com/watch?v=QYUbLevwgDQ&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=40)
 * global a
 * globals('a')
+## 16 [lambda](https://www.youtube.com/watch?v=hYzwCsKGRrg&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=46)
+* f=lambda a,b:a+b
+* [filter](https://www.youtube.com/watch?v=kj850Y8y8FI&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=47)
+* map
+* reduce
+* [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test3-lambda.py)

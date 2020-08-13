@@ -96,3 +96,5 @@
 * map
 * reduce
 * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test3-lambda.py)
+## 17 [decorator](https://www.youtube.com/watch?v=yNzxXZfkLUA&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=48)
+* [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test4-decorator.py)

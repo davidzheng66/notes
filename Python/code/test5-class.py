@@ -18,9 +18,11 @@ print(c2.core)
 print(Computer.core)
 
 print("===========")
-Computer.core = 8
+Computer.core = 8  # good way
 
 print(c1.core)
 print(c2.core)
 print(Computer.core)
+
+
 

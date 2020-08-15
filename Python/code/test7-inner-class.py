@@ -23,3 +23,6 @@ s1.show()
 
 # print(s1.Laptop('Dell', 'i6', '2TB').show())
 s1.Laptop('Dell', 'i6', '2TB').show()
+
+lap1 = Student.Laptop('Sony', 'i7', '3TB')
+lap1.show()

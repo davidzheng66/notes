@@ -98,3 +98,14 @@
 * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test3-lambda.py)
 ## 17 [decorator](https://www.youtube.com/watch?v=yNzxXZfkLUA&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=48)
 * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test4-decorator.py)
+## 18 [--name--](https://www.youtube.com/watch?v=7hjgRn-vfVQ&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=51)
+## 19 [class and object](https://www.youtube.com/watch?v=8O5kX73OkIY&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=53)
+* attributes/methods
+* special methods
+  * [--init--](https://www.youtube.com/watch?v=WIP3-woodlU&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=54)
+* [type of variables](https://www.youtube.com/watch?v=RSQjxL5WRNM&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=56)
+  * instance/object variables
+  * class variable
+  * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test5-class.py
+
+

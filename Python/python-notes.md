@@ -80,14 +80,14 @@
 * a = int(sys.argv[1])
 ## 12 [for else](https://www.youtube.com/watch?v=38svC3U7hVo&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=28)
 * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test1-forelse.py)
-## 13 [matrix](https://www.youtube.com/watch?v=Blzp9iuhZqo&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=35)
-## 14 [function](https://www.youtube.com/watch?v=eci9iU_s6Ag&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=38)
+## 13 [Matrix](https://www.youtube.com/watch?v=Blzp9iuhZqo&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=35)
+## 14 [Function](https://www.youtube.com/watch?v=eci9iU_s6Ag&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=38)
 * position
 * keyword
 * default
 * variable length arguments(*arg)
 * [keyworded variable length arguments(**kwarg)](https://www.youtube.com/watch?v=kB829ciAXo4&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=39)
-## 15 [scopes](https://www.youtube.com/watch?v=QYUbLevwgDQ&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=40)
+## 15 [Scopes](https://www.youtube.com/watch?v=QYUbLevwgDQ&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=40)
 * global a
 * globals('a')
 ## 16 [lambda](https://www.youtube.com/watch?v=hYzwCsKGRrg&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=46)
@@ -99,16 +99,18 @@
 ## 17 [decorator](https://www.youtube.com/watch?v=yNzxXZfkLUA&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=48)
 * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test4-decorator.py)
 ## 18 [--name--](https://www.youtube.com/watch?v=7hjgRn-vfVQ&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=51)
-## 19 [class and object](https://www.youtube.com/watch?v=8O5kX73OkIY&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=53)
-* attributes/methods
-* special methods
+## 19 [Class and Object](https://www.youtube.com/watch?v=8O5kX73OkIY&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=53)
+* Attributes/Methods
+* Special methods
   * [--init--](https://www.youtube.com/watch?v=WIP3-woodlU&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=54)
-* [types of variables](https://www.youtube.com/watch?v=RSQjxL5WRNM&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=56)
+* [Types of variables](https://www.youtube.com/watch?v=RSQjxL5WRNM&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=56)
   * instance variables
   * class/static variables
     * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test5-class.py)
-* [types of methods](https://www.youtube.com/watch?v=lVfGQOzzRCM&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=57)
+* [Types of methods](https://www.youtube.com/watch?v=lVfGQOzzRCM&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=57)
   * instance methods: (self)
   * class methods: @classmethod (cls)
   * static methods: @staticmethod ()
   * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test6-class-methods.py)
+* [inner class](https://www.youtube.com/watch?v=b7JzgybKvys&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=58)
+  * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test7-inner-class.py)

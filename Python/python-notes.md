@@ -103,9 +103,12 @@
 * attributes/methods
 * special methods
   * [--init--](https://www.youtube.com/watch?v=WIP3-woodlU&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=54)
-* [type of variables](https://www.youtube.com/watch?v=RSQjxL5WRNM&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=56)
-  * instance/object variables
-  * class variable
-  * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test5-class.py
-
-
+* [types of variables](https://www.youtube.com/watch?v=RSQjxL5WRNM&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=56)
+  * instance variables
+  * class/static variables
+    * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test5-class.py)
+* [types of methods](https://www.youtube.com/watch?v=lVfGQOzzRCM&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=57)
+  * instance methods: (self)
+  * class methods: @classmethod (cls)
+  * static methods: @staticmethod ()
+  * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test6-class-methods.py)

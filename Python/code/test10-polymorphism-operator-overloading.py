@@ -17,8 +17,6 @@ class Student:
     def __str__(self):
         return '{},{}'.format(self.m1, self.m2)
 
-
-
 s1 = Student(80, 100)
 s2 = Student(90, 91)
 

@@ -119,3 +119,9 @@
   * multi level
   * [multiple: super(), Method Resolution Order(MRO) C(A,B)](https://www.youtube.com/watch?v=6P-P879BcHQ&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=60)
   * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test8-inheritance.py)
+* [Polymorphism]()
+  * [Duck Typing](https://www.youtube.com/watch?v=CuK0g8OFzwo&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=62)
+    * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test9-polymorphism-duck-typing.py)
+  * Operator Overloading
+  * Method Overloading
+  * Method Overriding

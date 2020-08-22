@@ -112,5 +112,10 @@
   * class methods: @classmethod (cls)
   * static methods: @staticmethod ()
   * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test6-class-methods.py)
-* [inner class](https://www.youtube.com/watch?v=b7JzgybKvys&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=58)
+* [Inner class](https://www.youtube.com/watch?v=b7JzgybKvys&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=58)
   * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test7-inner-class.py)
+* [Inheritance](https://www.youtube.com/watch?v=Cn7AkDb4pIU&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=59)
+  * single level
+  * multi level
+  * [multiple: super(), Method Resolution Order(MRO) C(A,B)](https://www.youtube.com/watch?v=6P-P879BcHQ&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=60)
+  * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test8-inheritance.py)

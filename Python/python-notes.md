@@ -141,3 +141,7 @@
   * Run time error: divided by zero
   * try: except Exception as e:
     * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test15-exception.py)
+## 23 [Multi-threading](https://www.youtube.com/watch?v=GqHLztqy0PU&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=69)
+  * from threading import Thread
+  * t1.start(), t1.join()
+  * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test16-multi-threading.py)

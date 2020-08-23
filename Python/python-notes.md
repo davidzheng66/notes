@@ -126,6 +126,9 @@
     * [source code](https://github.com/davidzheng66/notes/commit/ab15c6ad13911c2310ea5c81ec64668e9ce9cbfd)
   * [Method Overloading and Method Overriding](https://www.youtube.com/watch?v=CcTzTuIsoFk&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=64)
     * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test11-polymorphism-method-overloading-overriding.py)
-  * [Abstract Class and Method](https://www.youtube.com/watch?v=UDmJGvM-OUw&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=65)
-    * from abc import ABC, abstractmethod 
-    * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test12-abstract-class-method.py)
+* [Abstract Class and Method](https://www.youtube.com/watch?v=UDmJGvM-OUw&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=65)
+  * from abc import ABC, abstractmethod 
+  * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test12-abstract-class-method.py)
+## 20 [Iterator](https://www.youtube.com/watch?v=Dyu08G2l71c&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=66)
+  * it = iter(nums) => it.__next__, or next(it)
+  * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test13-iterator.py)

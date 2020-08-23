@@ -130,5 +130,8 @@
   * from abc import ABC, abstractmethod 
   * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test12-abstract-class-method.py)
 ## 20 [Iterator](https://www.youtube.com/watch?v=Dyu08G2l71c&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=66)
-  * it = iter(nums) => it.__next__, or next(it)
+  * it = iter(nums) => it.--next--(), or next(it)
   * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test13-iterator.py)
+## 21 [Generator](https://www.youtube.com/watch?v=mziIj4M_uwk&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=67)
+  * yield
+  * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test14-generator.py)

@@ -135,3 +135,9 @@
 ## 21 [Generator](https://www.youtube.com/watch?v=mziIj4M_uwk&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=67)
   * yield
   * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test14-generator.py)
+## 22 [Error Handling](https://www.youtube.com/watch?v=6SPDvPK38tw&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=68)
+  * Compile time error: syntax error
+  * Logic error: wrong error
+  * Run time error: divided by zero
+  * try: except Exception as e:
+    * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test15-exception.py)

@@ -145,3 +145,6 @@
   * from threading import Thread
   * t1.start(), t1.join()
   * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test16-multi-threading.py)
+## 24 [File Handling](https://www.youtube.com/watch?v=aequTxAvQq4&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=70)
+  * open(), read(), readline(), write(), rwb
+  * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test17-file-handling.py)

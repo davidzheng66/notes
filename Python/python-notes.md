@@ -148,3 +148,11 @@
 ## 24 [File Handling](https://www.youtube.com/watch?v=aequTxAvQq4&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=70)
   * open(), read(), readline(), write(), rwb
   * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test17-file-handling.py)
+## 25 [Python](https://www.youtube.com/watch?v=0BhSWyDEDC4&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=72)
+  * Compiled and interpreted language
+  * source code -> compiler -> byte code -> interpreter(Python Virtual Machine) -> Machine language
+  * [Implementation](https://en.wikipedia.org/wiki/Python_%28programming_language%29#Implementations)
+    * CPython(C)
+    * PyPy
+    * Jython(Java)
+    * IronPython(.net)

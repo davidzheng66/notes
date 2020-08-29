@@ -88,8 +88,9 @@
 * variable length arguments(*arg)
 * [keyworded variable length arguments(**kwarg)](https://www.youtube.com/watch?v=kB829ciAXo4&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=39)
 ## 15 [Scopes](https://www.youtube.com/watch?v=QYUbLevwgDQ&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=40)
-* global a
-* globals('a')
+* a
+  * global a
+  * globals()['a']
 ## 16 [lambda](https://www.youtube.com/watch?v=hYzwCsKGRrg&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=46)
 * f=lambda a,b:a+b
 * [filter](https://www.youtube.com/watch?v=kj850Y8y8FI&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=47)
@@ -156,3 +157,8 @@
     * PyPy
     * Jython(Java)
     * IronPython(.net)
+## 26 Search
+  * [Linear Search on sorted list](https://www.youtube.com/watch?v=UldZOLylez4&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=73)
+    * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test18-linear-search.py)
+  * [Binary Search on sorted list](https://www.youtube.com/watch?v=DE-ye0t0oxE&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=74)
+    * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test18-binary-search.py)

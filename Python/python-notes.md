@@ -167,3 +167,10 @@
     * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test19-bubble-sort.py)
   * [Selection Sort](https://www.youtube.com/watch?v=5KjapFQNxUo&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=76)
     * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test19-selection-sort.py)
+## 27 Database Connection
+  * [Install MySQL](https://www.youtube.com/watch?v=WDEyt2VHpj4&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=77)
+    * [MySQL Installer](https://dev.mysql.com/downloads/installer/)
+  * [Connect Python to MySQL](https://www.youtube.com/watch?v=vR5utJvN4JY&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=78)
+    * pip install mysql.connect 
+    * import mysql.connector
+    * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test20-database-connection.py)

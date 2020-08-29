@@ -162,3 +162,8 @@
     * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test18-linear-search.py)
   * [Binary Search on sorted list](https://www.youtube.com/watch?v=DE-ye0t0oxE&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=74)
     * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test18-binary-search.py)
+## 27 Sort
+  * [Bubble Sort](https://www.youtube.com/watch?v=Vca808JTbI8&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=75)
+    * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test19-bubble-sort.py)
+  * [Selection Sort](https://www.youtube.com/watch?v=5KjapFQNxUo&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=76)
+    * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test19-selection-sort.py)

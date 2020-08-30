@@ -177,3 +177,6 @@
 ## 28 [Github](https://github.com/)
   * [Part 1](https://www.youtube.com/watch?v=UBLONzkmReE&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=79)
   * [Part 2](https://www.youtube.com/watch?v=udO6gSLXujU&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=80)
+## 29 [Socket](https://www.youtube.com/watch?v=u4kr7EFxAKk&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=82)
+  * [Server code](https://github.com/davidzheng66/notes/blob/master/Python/code/test21-server.py)
+  * [Client code](https://github.com/davidzheng66/notes/blob/master/Python/code/test21-client.py)

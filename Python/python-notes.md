@@ -174,6 +174,6 @@
     * pip install mysql.connect 
     * import mysql.connector
     * [source code](https://github.com/davidzheng66/notes/blob/master/Python/code/test20-database-connection.py)
-## 28 Github
-    * [Part 1](https://www.youtube.com/watch?v=UBLONzkmReE&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=79)
-    * [Part 2](https://www.youtube.com/watch?v=udO6gSLXujU&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=80)
+## 28 [Github](https://github.com/)
+  * [Part 1](https://www.youtube.com/watch?v=UBLONzkmReE&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=79)
+  * [Part 2](https://www.youtube.com/watch?v=udO6gSLXujU&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=80)

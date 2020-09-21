@@ -91,6 +91,8 @@
 * a
   * global a
   * globals()['a']
+  * nonlocal a
+* [LEGB: Local, Enclosing, Global, Built-in](https://www.youtube.com/watch?v=QVdf0LgmICw&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=18&pbjreload=101)
 ## 16 [lambda](https://www.youtube.com/watch?v=hYzwCsKGRrg&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=46)
 * f=lambda a,b:a+b
 * [filter](https://www.youtube.com/watch?v=kj850Y8y8FI&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=47)

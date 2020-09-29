@@ -18,3 +18,4 @@
 * [PlantUML in a nutshell](https://plantuml.com/)
 * [StarUML Software](http://staruml.io/)
 ## 6. [How to Disable/Enable Hyper-V](https://support.genymotion.com/hc/en-us/articles/360002732677)
+## 7. [How to Update Intel Device Drivers](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)

@@ -1,6 +1,8 @@
 ## 1. [How to make the perfect Readme.md on GitHub](https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061)
 ## 2. [How to Setup SSH Keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2#:~:text=%20How%20To%20Set%20Up%20SSH%20Keys%20,keys%20onto%20your%20server%20and%20ensured...%20More%20)
-[Video](https://www.youtube.com/watch?v=hQWRp-FdTpc)
+* [Video](https://www.youtube.com/watch?v=hQWRp-FdTpc)
+* _ssh -i ~/.ssh/id_ecg root@192.168.10.100_
+* _scp -i ~/.ssh/id_ecg_ source.file _root@192.168.10.100:/tmp_ (target.folder)
 ## 3. Setup between Windows and Ubuntu
 1) In Windows 10, run command "ssh-keygen", it creates 2 files: id_rsa and id_rsa.pub in the folder ".ssh"
 2) Copy id_rsa.pub to ~/.ssh and rename it to "authorized_keys" in Ubuntu

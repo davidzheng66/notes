@@ -11,3 +11,10 @@
 * _Ctrl+Shift+V_: paste characters in clipboard, or using middle button in the mouse
 * _Ctrl+Shift+N_: create a terminal in a new window
 * _Ctrl+Shift+T_: create a terminal in the same window
+## 3. Shortcuts on QNX Momentics IDE (Based on Eclipse)
+* Open menu of shortcuts:
+  * _Ctrl+Shift+L_
+  * Windows -> Preferences -> General -> Keys
+* Shift between header and source files: _Ctrl+Tab_
+* Move lines up and down: _Alt+Up_ and _Alt+Down_ 
+* Navigate back and forward: _Alt+Left_ and _Alt+Right_

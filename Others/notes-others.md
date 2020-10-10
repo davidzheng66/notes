@@ -24,3 +24,11 @@
 ## 8. [Git Tutorial](https://en.wikipedia.org/wiki/Git))
 * [Command Line Fundmentals](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=1)
 * [Fixing Common Mistakes and Undo Bad Committs](https://www.youtube.com/watch?v=FdZecVxzJbk&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=2)
+* [Using the Stash Command](https://www.youtube.com/watch?v=KLEDKgMmbBI&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=3)
+  * Stash: _git stash save "comment"_
+  * List stash: _git stash list_
+  * Apply a specifi stash and keep it: _git stash apply stash@{0}_
+  * Apply the last stash and drop it in the mean time: _git stash pop_
+  * Drop a specific stash: _git stash drop_ stash@{0}_
+  * Remove all stashes: _git stash clear_
+  

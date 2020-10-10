@@ -31,4 +31,8 @@
   * Apply the last stash and drop it in the mean time: _git stash pop_
   * Drop a specific stash: _git stash drop_ stash@{0}_
   * Remove all stashes: _git stash clear_
+* [Using the Add Command](https://www.youtube.com/watch?v=tcd4txbTtAY&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=6)
+  * _git add -A_ : default
+  * _git add ._
+  * _git add -u_
   

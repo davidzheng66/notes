@@ -21,8 +21,15 @@
 * [StarUML Software](http://staruml.io/)
 ## 6. [How to Disable/Enable Hyper-V](https://support.genymotion.com/hc/en-us/articles/360002732677)
 ## 7. [How to Update Intel Device Drivers](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)
-## 8. [Git Tutorial](https://en.wikipedia.org/wiki/Git)
+## 8. [Git Tutorial](https://github.com/progit/progit2/tree/master/book)
+* [Download](https://git-scm.com/)
+* [Book](https://git-scm.com/book/en/v2)
 * [Command Line Fundmentals](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=1)
+  * Set config values:
+    * _git config --global user.name "username"_
+    * _git config --global user.email "email"_
+    * _git config --list_
+  
 * [Fixing Common Mistakes and Undo Bad Committs](https://www.youtube.com/watch?v=FdZecVxzJbk&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=2)
 * [Using the Stash Command](https://www.youtube.com/watch?v=KLEDKgMmbBI&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=3)
   * Stash: _git stash save "comment"_
@@ -31,6 +38,9 @@
   * Apply the last stash and drop it in the mean time: _git stash pop_
   * Drop a specific stash: _git stash drop_ stash@{0}_
   * Remove all stashes: _git stash clear_
+* [Diff and Diffmerge](https://www.youtube.com/watch?v=iCGrKFH2oeo&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=4) 
+  * [Download](https://www.sourcegear.com/diffmerge/downloads.php)
+  * [Git Settings](https://www.sourcegear.com/diffmerge/webhelp/chapter_integration.html)
 * [Using the Add Command](https://www.youtube.com/watch?v=tcd4txbTtAY&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=6)
   * _git add -A_ : default
   * _git add ._

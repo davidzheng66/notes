@@ -21,3 +21,6 @@
 * [StarUML Software](http://staruml.io/)
 ## 6. [How to Disable/Enable Hyper-V](https://support.genymotion.com/hc/en-us/articles/360002732677)
 ## 7. [How to Update Intel Device Drivers](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)
+## 8. [Git Tutorial](https://en.wikipedia.org/wiki/Git))
+* [Command Line Fundmentals](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=1)
+* [Fixing Common Mistakes and Undo Bad Committs](https://www.youtube.com/watch?v=FdZecVxzJbk&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=2)

@@ -25,12 +25,80 @@
 * [Download](https://git-scm.com/)
 * [Book](https://git-scm.com/book/en/v2)
 * [Command Line Fundmentals](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=1)
-  * Set config values:
+  * Set config values, it changes file ".gitconfig"
     * _git config --global user.name "username"_
     * _git config --global user.email "email"_
     * _git config --list_
-  
+  * Help:
+    * _git help_  "verbe"
+    * _git_ "verb" _help_
+  * Begin with:
+    * Create a repo: _git init_, it will create a folder .git
+    * Clone a repo: _git clone_ "Remote URL" "Where to clone"
+  * Check Status: _git status_
+  * Ignore files, add the file/folder name into ".gitignore"
+  * Three area:
+    * (1) Working Directory, (2) Staging Area, (3) .git dirctory(Repository)
+  * Change files from Working Directory to Staging Area: _git add -A_ (for all files) or _git add_ filename (for a specific file)
+    * To reset change above: _git reset_ (for all files) or _git reset_ filename (for a specific file)
+  * Commit files: _git commit -m_ "comments"
+  * To check log: _git log_
+  * View information about the remote repository:
+     * _git remote -v_
+     * _git branch -a_
+  * Pushing changes:
+     * make changes
+     * _git diff_
+     * _git status_
+     * _git add -A_
+     * _git commit -a "comment"
+     * _git pull origin_ "branch name"
+     * _git push origin_ "branch name"
+   * Create a branch for a desired feature
+     * _git branch -b_ "branch name" or
+     * _git branch_ "branch name" + _git checkout_ "branch name"
+     * make changes, commits
+     * Push branch to remote
+       * _git push -u origin_ "branch name in remote"
+         * later, jut _git pull_, _git push_
+       * _git branch -a_
+   * Merge a branch
+     * _git check master_
+     * _git pull origin master_ or _git pull_
+     * _git branch --merged_ (check which branches merged)
+     * _git merge_ "branch name"
+     * _git push origin master_ or _git push_
+   * Delete a branch
+     * _git branch --merged_ (check which branches merged)
+     * _git branch -d_ "branch name" (delete branch in local)
+     * _git branch -a_ (check branches)
+     * _git push origin --delete_ "branch name" (delete branch in remote)
 * [Fixing Common Mistakes and Undo Bad Committs](https://www.youtube.com/watch?v=FdZecVxzJbk&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=2)
+  * Fix message committed before pushing to remote, it will change the history: _git commit --amend -m "corret message"
+  * Adding files to the same commit: _git commit --amend_
+  * Check the log: _git log --stat_
+  * If a change should be committed to branch B, but it has been committed to branch A
+    * In branch A, use _git log_ to get committed hashcode xxxxxx
+    * _git checkout_ B
+    * _git cherry-pick_ xxxxxx
+    * It is done in branch B, but we also need to get rid of it from branch A
+      * _git checkout_ A
+      * Use _git log_ to get committed hashcode oooooo
+      * There are 3 ways to undo commit
+        * Soft, reset committed files to staging area: _git reset --soft_ oooooo_
+        * Mixed, default, reset files from staging area to working directory: _git reset_ oooooo
+        * Hard, revert tracked files to where they were: _git reset --hard_ oooooo
+          * If revert the hard reset is needed
+            * Use _git reflog_ to get the hashcode yyyyyy before hard-reset
+            * _git checkout_ yyyyyy
+            * It is now in detached head state, use _git log_ to check log
+              * To store the revert commit: _git branch_ backupxxx
+              * To check backuptxxx branch: _git checkout backupxxx_   
+        * Clean untracked directories/files: _git clean -df_
+   * To revert a commit with changing history:
+     * _git revert_ hashcode
+   * Compare two commits:
+     * _git diff_ hashcode1 hashcode2
 * [Using the Stash Command](https://www.youtube.com/watch?v=KLEDKgMmbBI&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=3)
   * Stash: _git stash save "comment"_
   * List stash: _git stash list_

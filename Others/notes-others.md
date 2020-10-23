@@ -73,8 +73,12 @@
      * _git branch -d_ "branch name" (delete branch in local)
      * _git branch -a_ (check branches)
      * _git push origin --delete_ "branch name" (delete branch in remote)
+   * [Rename a branch](https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-git-branch)
+     * _git branch -m_ "oldname" "newname"
+     * _git branch -m_ "newname", if the current working branch is to be renamed
+
 * [Fixing Common Mistakes and Undo Bad Committs](https://www.youtube.com/watch?v=FdZecVxzJbk&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=2)
-  * Fix message committed before pushing to remote, it will change the history: _git commit --amend -m "corret message"
+  * Fix message committed before pushing to remote, it will change the history: _git commit --amend -m_ "corret message"
   * Adding files to the same commit: _git commit --amend_
   * Check the log: _git log --stat_
   * If a change should be committed to branch B, but it has been committed to branch A
@@ -113,4 +117,7 @@
   * _git add -A_ : default
   * _git add ._
   * _git add -u_
-  
+* [Compress or squash some commits into one(rebase)](https://www.devroom.io/2011/07/05/git-squash-your-latests-commits-into-one/)
+  * _git rebase -i HEAD~3_
+  * _git rebase_"branch name"
+    * To abort a rebase: _git rebase --abort_

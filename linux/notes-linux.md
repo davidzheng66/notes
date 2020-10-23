@@ -3,9 +3,12 @@
    * *df -h*
 * [du(Disk Usage): find disk usage of files and directories](https://www.tecmint.com/check-linux-disk-usage-of-files-and-directories/)
    * _du -h_
-* [rm:(Remove files and folders](https://www.tecmint.com/linux-rm-command-examples/)
+* [rm(Remove files and folders):](https://www.tecmint.com/linux-rm-command-examples/)
   * _rm_ FileName _-rf_ (be careful to use this command)
   * _rm -i_ FileName (safe to use this command)
+* [tar(Tape Archive):](https://www.interserver.net/tips/kb/use-tar-command-linux-examples/)
+  * Create zip file: _tar -czvf_ myfile.tar ./myfolder
+  * Extract zip file: _tar -xzvf_ myfile.tar
 ## 2. Shortcuts on terminal
 * _Ctrl+Shift+C_: copy highlighted characters
 * _Ctrl+Shift+V_: paste characters in clipboard, or using middle button in the mouse

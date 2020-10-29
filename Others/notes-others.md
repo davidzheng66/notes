@@ -68,9 +68,9 @@
      * _git branch --merged_ (check which branches merged)
      * _git merge_ "branch name"
      * _git push origin master_ or _git push_
-   * Delete a branch
+   * [Delete a branch](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/)
      * _git branch --merged_ (check which branches merged)
-     * _git branch -d_ "branch name" (delete branch in local)
+     * _git branch -d_ "branch name" (delete branch in local, -D: forced delete)
      * _git branch -a_ (check branches)
      * _git push origin --delete_ "branch name" (delete branch in remote)
    * [Rename a branch](https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-git-branch)

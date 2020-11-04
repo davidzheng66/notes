@@ -22,6 +22,7 @@
 * Navigate back and forward: _Alt+Left_ and _Alt+Right_
 * Move lines up and down: _Alt+Up_ and _Alt+Down_ 
 * Comment/Uncomment: _Ctrl+/_
+* Change font size: _Ctrl++_, _Ctrl+-_
 ## 4. Shortcuts on Visual Studio Code
 * Open menu of shortcuts:
   * _Ctrl+K_ _Ctrl+S_
@@ -30,3 +31,4 @@
 * Navigate back and forward: _Ctrl+Alt+-_ and _Ctrl+Shift+-_
 * Move lines up and down: _Alt+Up_ and _Alt+Down_ 
 * Comment/Uncomment: _Ctrl+/_
+* Change font size: _Ctrl++_, _Ctrl+-_

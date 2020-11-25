@@ -118,6 +118,6 @@
   * _git add ._
   * _git add -u_
 * [Compress or squash some commits into one(rebase)](https://www.devroom.io/2011/07/05/git-squash-your-latests-commits-into-one/)
-  * _git rebase -i HEAD~3_
+  * _git rebase -i HEAD~3_, then change "pick" to "squash" for commits to be compressed"
   * _git rebase_"branch name"
     * To abort a rebase: _git rebase --abort_

@@ -121,3 +121,5 @@
   * _git rebase -i HEAD~3_, then change "pick" to "squash" for commits to be compressed"
   * _git rebase_"branch name"
     * To abort a rebase: _git rebase --abort_
+    
+## 9. [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet)

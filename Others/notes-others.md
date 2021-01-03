@@ -123,3 +123,6 @@
     * To abort a rebase: _git rebase --abort_
     
 ## 9. [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet)
+
+## 10. [Sublime Text Documentation](https://www.sublimetext.com/docs/3/multiple_selection_with_the_keyboard.html)
+* Find all of words: "Alt + F3", go back to a single word: "ESC"

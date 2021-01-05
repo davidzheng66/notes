@@ -39,9 +39,11 @@
   ```
 # 5. [CMake Tutorial](https://www.youtube.com/watch?v=nlKcXPUJGwA&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4&index=1)
  * [Lecture 1 - Understanding the Basics](https://www.youtube.com/watch?v=nlKcXPUJGwA&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4&index=1)
-  * Prerequisites:
-    * gcc
-    * cmake
-  * Create "CMakeLists.txt"
-  * Run:
-    * _cmake -S 'Path-to-Source' -B 'Path-to-Build'_
+   * Prerequisites:
+     * gcc
+     * cmake
+   * Create "CMakeLists.txt" with:
+     * CMAKE
+     * Project
+   * Run:
+     * _cmake -S 'Path-to-Source' -B 'Path-to-Build'_

@@ -1,12 +1,13 @@
-#1. [gmock-matcher](https://github.com/google/googletest/blob/master/googlemock/docs/cheat_sheet.md#defining-matchers)
+# 1. [gmock-matcher](https://github.com/google/googletest/blob/master/googlemock/docs/cheat_sheet.md#defining-matchers)
   * [Example 1](https://stackoverflow.com/questions/55547923/google-mocktesting-a-certain-property-of-an-object)
     * [source code](https://github.com/davidzheng66/notes/blob/master/C%2B%2B/matcherTest.cpp)
   * [Example 2](https://stackoverflow.com/questions/23938233/gmock-matching-structures)
-#2. [Parameterized tests](https://github.com/google/googletest/blob/master/googletest/docs/advanced.md)
+# 2. [Parameterized tests](https://github.com/google/googletest/blob/master/googletest/docs/advanced.md)
   * [Example 1](https://www.sandordargo.com/blog/2019/04/24/parameterized-testing-with-gtest)
   * [Example 2](https://stackoverflow.com/questions/8971572/how-to-test-multi-parameter-formula)
     * [source code](https://github.com/davidzheng66/notes/blob/master/C%2B%2B/parameterizedTest.cpp)
-#3. [Atomic](https://en.cppreference.com/w/cpp/atomic/atomic)
+    
+# 3. [Atomic](https://en.cppreference.com/w/cpp/atomic/atomic)
   * [video](https://www.youtube.com/watch?v=ZQFzMfHIxng)
   * Explicit reads and writes
   ```
@@ -25,7 +26,7 @@
     // if x == y, make x = z, and return true
     // Otherwise, set y = x, and return false
   ```  
-#4. Check endianess
+# 4. Check endianess
 * ```
   bool is_big_endian(){
     union {
@@ -36,3 +37,11 @@
     return bint.c[0] == 1;
   }
   ```
+# 5. [CMake Tutorial](https://www.youtube.com/watch?v=nlKcXPUJGwA&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4&index=1)
+ * [Lecture 1 - Understanding the Basics](https://www.youtube.com/watch?v=nlKcXPUJGwA&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4&index=1)
+  * Prerequisites:
+    * gcc
+    * cmake
+  * Create "CMakeLists.txt"
+  * Run:
+    * _cmake -S 'Path-to-Source' -B 'Path-to-Build'_

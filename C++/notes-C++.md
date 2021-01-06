@@ -60,4 +60,5 @@
   * target_link_libraries(${PROJECT_NAME} adder)
   * target_include_directories(${PROJECT_NAME} PUBLIC Adder)
 * [Lecture 3 - Git Submodules (adding glfw windowing library example)](https://www.youtube.com/watch?v=ED-WUk440qc&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4&index=3)
+* [Lecture 4 -Visioning Source Code](https://www.youtube.com/watch?v=K3bx7NYSXVk&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4&index=4)
  

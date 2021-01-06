@@ -37,8 +37,9 @@
     return bint.c[0] == 1;
   }
   ```
-# 5. [CMake Tutorial](https://www.youtube.com/watch?v=nlKcXPUJGwA&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4&index=1)
-* [Source Code](https://github.com/codetechandtutorials/OurLordAndSavior)
+# 5. [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+* [CMake source code](https://github.com/Kitware/CMake)
+* [Lecture source code](https://github.com/codetechandtutorials/OurLordAndSavior)
 * [Lecture 1 - Understanding the Basics](https://www.youtube.com/watch?v=nlKcXPUJGwA&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4&index=1)
   * Prerequisites:
     * gcc

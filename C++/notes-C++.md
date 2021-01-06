@@ -45,5 +45,15 @@
    * Create "CMakeLists.txt" with:
      * CMAKE
      * Project
-   * Run:
-     * _cmake -S 'Path-to-Source' -B 'Path-to-Build'_
+       * _project(gtests)_
+       * _add_executable(${PROJECT_NAME} main.cpp)_
+   * Build and Run:
+     * mkdir ./out/build
+     * Navigate to "out/build" --> cmake ../../ --> cmake --build .
+     * Later navigate back to parent folder: _cmake -S 'Path-to-Source' -B 'Path-to-Build'_ (cmake -S . -B out/build)
+     * Build: _make -C out/build_
+     * Run: _out/build/gtests_
+ * [Lecture 2 - Subdirectories and Libraries](https://www.youtube.com/watch?v=kEGQKzhciKc&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4&index=2)
+   * add_subdirectory(Adder)
+   * target_link_libraries(${PROJECT_NAME} adder)
+   * target_include_directories(${PROJECT_NAME} PUBLIC Adder)

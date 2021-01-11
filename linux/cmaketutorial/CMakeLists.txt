@@ -26,17 +26,25 @@ endif()
 #    message(FATAL_ERROR "The glfw submodules was not downloaded! GIT_SUBMODULE was turned off or failed. Please update submodules and try again.")
 #endif()
 ###############################################################################
-
 if(NOT EXISTS "${PROJECT_SOURCE_DIR}/external/gtests/CMakeLists.txt")
     message(FATAL_ERROR "The googletest submodules was not downloaded! GIT_SUBMODULE was turned off or failed. Please update submodules and try again.")
 endif()
 
 add_subdirectory(Adder)
 #add_subdirectory(external/glfw)
-add_subdirectory(external/gtests)
+
 
 target_include_directories(${PROJECT_NAME} 
-                        PUBLIC Adder
-                        PUBLIC external/gtests/googletest/include)
+                        PUBLIC Adder)
+ #                       PUBLIC external/gtests/googletest/include)
 
 target_link_libraries(${PROJECT_NAME} adder)
+
+
+add_subdirectory(Example)
+
+############ For google tests ######
+enable_testing()
+add_subdirectory(external/gtests)
+add_subdirectory(test)
+

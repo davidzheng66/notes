@@ -1,3 +1,21 @@
+# Table of contents
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
+
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
+
 ## 1. [How to make the perfect Readme.md on GitHub](https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061)
 ## 2. [How to Setup SSH Keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2#:~:text=%20How%20To%20Set%20Up%20SSH%20Keys%20,keys%20onto%20your%20server%20and%20ensured...%20More%20)
 * [Video](https://www.youtube.com/watch?v=hQWRp-FdTpc)

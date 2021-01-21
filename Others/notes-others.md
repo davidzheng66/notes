@@ -80,6 +80,8 @@ The second paragraph text
        * _git push -u origin_ "branch name in remote"
          * later, jut _git pull_, _git push_
        * _git branch -a_
+     * Set upstream
+       * _git branch --set-upstream-to=origin/topic/ECG-67348 topic/ECG-67348_
    * Merge a branch
      * _git check master_
      * _git pull origin master_ or _git pull_
@@ -94,7 +96,7 @@ The second paragraph text
    * [Rename a branch](https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-git-branch)
      * _git branch -m_ "oldname" "newname"
      * _git branch -m_ "newname", if the current working branch is to be renamed
-
+   
 * [Fixing Common Mistakes and Undo Bad Committs](https://www.youtube.com/watch?v=FdZecVxzJbk&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx&index=2)
   * Fix message committed before pushing to remote, it will change the history: _git commit --amend -m_ "corret message"
   * Adding files to the same commit: _git commit --amend_

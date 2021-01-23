@@ -64,6 +64,14 @@ The second paragraph text
   * View information about the remote repository:
      * _git remote -v_
      * _git branch -a_
+  * Initial push:
+    * In github, create a new repo "cmaketutorial"
+    * In local:
+      * Setup email address: _git config --global user.email 'davidzheng66@gmail.com'_
+      * Setup user name: _git config --global user.name 'David Zheng'_
+      * Commit all files
+      * Connect local branch to remote: _git remote add origin git@github.com:davidzheng66/cmaketutorial.git_
+      * Push commit: _git push -u origin master_
   * Pushing changes:
      * make changes
      * _git diff_

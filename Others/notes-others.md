@@ -151,6 +151,6 @@ The second paragraph text
     * To abort a rebase: _git rebase --abort_
     
 ## 9. [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet)
-
-## 10. [Sublime Text Documentation](https://www.sublimetext.com/docs/3/multiple_selection_with_the_keyboard.html)
-* Find all of words: "Alt + F3", go back to a single word: "ESC"
+## 10 [Setting up a Python Development Environment in Sublime Text - Corey Shafter](https://www.youtube.com/watch?v=xFciV6Ew5r4&list=PL-osiE80TeTtHH8BZngXEsLPGotQxZa6z&index=2)
+* [Sublime Text Documentation](https://www.sublimetext.com/docs/3/multiple_selection_with_the_keyboard.html)
+  * Find all of words: "Alt + F3", go back to a single word: "ESC"

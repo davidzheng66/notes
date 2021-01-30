@@ -61,4 +61,13 @@
   * target_include_directories(${PROJECT_NAME} PUBLIC Adder)
 * [Lecture 3 - Git Submodules (adding glfw windowing library example)](https://www.youtube.com/watch?v=ED-WUk440qc&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4&index=3)
 * [Lecture 4 -Visioning Source Code](https://www.youtube.com/watch?v=K3bx7NYSXVk&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4&index=4)
- 
+
+# [Visual Studio Dynamic vs Static Runtimes](https://github.com/google/googletest/blob/master/googletest/README.md#visual-studio-dynamic-vs-static-runtimes )
+By default, new Visual Studio projects link the C runtimes dynamically but GoogleTest links them statically. This will generate an error that looks something like the following: gtest.lib(gtest-all.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MTd_StaticDebug' doesn't match value 'MDd_DynamicDebug' in main.obj
+
+GoogleTest already has a CMake option for this: gtest_force_shared_crt
+
+Enabling this option will make gtest link the runtimes dynamically too, and match the project in which it is included.
+
+# [C++ Standard Version](https://github.com/google/googletest/blob/master/googletest/README.md#c-standard-version)
+An environment that supports C++11 is required in order to successfully build GoogleTest. One way to ensure this is to specify the standard in the top-level project, for example by using the set(CMAKE_CXX_STANDARD 11) command. If this is not feasible, for example in a C project using GoogleTest for validation, then it can be specified by adding it to the options for cmake via the DCMAKE_CXX_FLAGS option.

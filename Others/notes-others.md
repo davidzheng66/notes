@@ -24,7 +24,7 @@ The second paragraph text
 ## 3. Setup between Windows and Ubuntu
 1) In Windows 10, run command "ssh-keygen", it creates 2 files: id_rsa and id_rsa.pub in the folder ".ssh"
 2) Copy id_rsa.pub to ~/.ssh and rename it to "authorized_keys" in Ubuntu, or
-   * In Windows, _ssh-copy-id -i ~/.ssh/id_rsa.pub david@192.168.64.129_, or
+   * In Windows, [_ssh-copy-id -i ~/.ssh/id_rsa.pub david@192.168.64.129_](https://www.youtube.com/watch?v=ZKZbPZCnHRE), or
    * In Windows, _ssh-copy-id david@192.168.64.129_
 3) In Windows, sshing into ubuntu by using "ssh david@192.168.64.129", it will not require your password
 4) In Windows, copy file1 to ubuntu by using "scp file1 david@192.168.64.129:~/"

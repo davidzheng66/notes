@@ -158,3 +158,5 @@ The second paragraph text
   * Find all of words: "Alt + F3", go back to a single word: "ESC"
 ## [PKI(Public Key Infrastructure) Bootcamp](https://www.youtube.com/watch?v=q9vu6_2r0o4&list=PLDp2gaPHHZK-mnKi3Zy_-hRjqLHh5PaAv)
 * [Wiki](https://en.wikipedia.org/wiki/Public_key_infrastructure)
+## [Basic Cryptograhic Concepts:Public Keys, SSL Certificates, Hashing, SHA-2 : Matt Thomas](https://www.youtube.com/playlist?list=PL6TbWIxWsLY3XuAZB4C0_GxrR76TAZOf2)
+

@@ -159,4 +159,14 @@ The second paragraph text
 ## [PKI(Public Key Infrastructure) Bootcamp](https://www.youtube.com/watch?v=q9vu6_2r0o4&list=PLDp2gaPHHZK-mnKi3Zy_-hRjqLHh5PaAv)
 * [Wiki](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 ## [Basic Cryptograhic Concepts:Public Keys, SSL Certificates, Hashing, SHA-2 : Matt Thomas](https://www.youtube.com/playlist?list=PL6TbWIxWsLY3XuAZB4C0_GxrR76TAZOf2)
+## GRPC
+* [Protocol Buffers Crash Course : Hussein Nasser](https://www.youtube.com/watch?v=46O73On0gyI)
+* [gRPC Crash Course - Modes, Examples, Pros & Cons and more](https://www.youtube.com/watch?v=Yw4rkaTc0f8)
+* [10000 Messages in 2.18 seconds with Python and gRPC : Sean Bradley](https://www.youtube.com/watch?v=dQK0VLahrDk)
+## Socket Programming in C++
+* [Socket Programming in C/C++ : Varteta Learning Platform](https://www.youtube.com/watch?v=bqj4dWG7v3c&list=PLhnN2F9NiVmAMn9iGB_Rtjs3aGef3GpSm)
+## Redis In-Memory Database
+* [Redis In-Memory Database : Hussein Nasser](https://www.youtube.com/watch?v=sVCZo5B8ghE&list=PLQnljOFTspQXNP6mQchJVP3S-3oKGEuw9&index=3)
+## REST APIs:
+* [REST APIs Prons & Cons : Hussesin Nasser](https://www.youtube.com/watch?v=M3XQ6yEC51Q&list=PLQnljOFTspQXNP6mQchJVP3S-3oKGEuw9&index=1)
 

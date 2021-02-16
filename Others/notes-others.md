@@ -103,6 +103,7 @@ The second paragraph text
      * _git branch -d_ "branch name" (delete branch in local, -D: forced delete)
      * _git branch -a_ (check branches)
      * _git push origin --delete_ "branch name" (delete branch in remote)
+     * _git push --delete origin_ "branch name" (delete branch in remote): _git push --delete origin topic/ECG-72915_
    * [Rename a branch](https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-git-branch)
      * _git branch -m_ "oldname" "newname"
      * _git branch -m_ "newname", if the current working branch is to be renamed

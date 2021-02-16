@@ -171,4 +171,19 @@ The second paragraph text
 * [Redis In-Memory Database : Hussein Nasser](https://www.youtube.com/watch?v=sVCZo5B8ghE&list=PLQnljOFTspQXNP6mQchJVP3S-3oKGEuw9&index=3)
 ## REST APIs:
 * [REST APIs Prons & Cons : Hussesin Nasser](https://www.youtube.com/watch?v=M3XQ6yEC51Q&list=PLQnljOFTspQXNP6mQchJVP3S-3oKGEuw9&index=1)
-
+## [How to set static IP in Ubuntu](https://linuxize.com/post/how-to-configure-static-ip-address-on-ubuntu-18-04/)
+* _ip link_
+* Change "/etc/netplan/01-netcfg.yaml"
+    network:
+      version: 2
+      renderer: networkd
+      ethernets:
+        ens3:
+        dhcp4: no
+        addresses:
+          - 192.168.121.199/24
+        gateway4: 192.168.121.1
+        nameservers:
+            addresses: [8.8.8.8, 1.1.1.1]
+* _sudo netplan apply_
+* _ip addr show dev ens3_

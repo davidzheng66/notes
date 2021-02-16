@@ -165,6 +165,7 @@ The second paragraph text
 * [10000 Messages in 2.18 seconds with Python and gRPC : Sean Bradley](https://www.youtube.com/watch?v=dQK0VLahrDk)
 ## Socket Programming in C++
 * [Socket Programming in C/C++ : Varteta Learning Platform](https://www.youtube.com/watch?v=bqj4dWG7v3c&list=PLhnN2F9NiVmAMn9iGB_Rtjs3aGef3GpSm)
+* [Python Network Programming - TCP/IP Socket Programming : BuiltWithPython](https://www.youtube.com/watch?v=F5SabQHtgw4&list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF&index=15)
 ## Redis In-Memory Database
 * [Redis In-Memory Database : Hussein Nasser](https://www.youtube.com/watch?v=sVCZo5B8ghE&list=PLQnljOFTspQXNP6mQchJVP3S-3oKGEuw9&index=3)
 ## REST APIs:

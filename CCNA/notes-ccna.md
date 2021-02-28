@@ -1,0 +1,2 @@
+# [CCNA-Cisco Certified Network Association](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html#:~:text=One%20training%20course%2C%20one%20exam%20Achieving%20CCNA%20certification,networking%20technologies%2C%20software%20development%20skills%2C%20and%20job%20roles.)
+# [CCNA 200-301 Playlist - DansCourses](https://www.youtube.com/watch?v=KTStLkaJm4k&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=6)

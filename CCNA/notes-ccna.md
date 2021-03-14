@@ -18,4 +18,9 @@
 ## [15: 7. CCNA Ch4 - Physical Layer Media Types](https://www.youtube.com/watch?v=A2tL_jpdowY&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=15)
 ## [16: Learning Subnetting Part 1 -Convert Decimal to Binary to Hexadecimal](https://www.youtube.com/watch?v=PZpGF25oES4&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=16)
 ## [17:8. CCNA Ch5 - Converting Binary, Decimal, Hexadecimal, Octal and Base64 encoded numbers](https://www.youtube.com/watch?v=4nGgqLIKU9U&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=17)
+## [18: 9. CCNA Ch6 - Data Encapsulation in the TCP/IP model](https://www.youtube.com/watch?v=DCIXN5C6lZk&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=18)
+## [19: The Data Link Layer, MAC Addressing, and the Ethernet Frame](https://www.youtube.com/watch?v=_b4dXKB8Pt8&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=19)
+## [20: 10. CCNA Ch7 - What is CSMA/CD?](https://www.youtube.com/watch?v=EqqwYmPHkLg&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=20)
+## [21: 11. CCNA Ch7 - View the Switch MAC address Table in Netlab](https://www.youtube.com/watch?v=NRhRFB9gtqw&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=21)
+## [22: How a Switch Forwards and Builds the MAC Address Table](https://www.youtube.com/watch?v=sdYDLip2ANI&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=22)
 

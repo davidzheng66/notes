@@ -23,4 +23,12 @@
 ## [20: 10. CCNA Ch7 - What is CSMA/CD?](https://www.youtube.com/watch?v=EqqwYmPHkLg&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=20)
 ## [21: 11. CCNA Ch7 - View the Switch MAC address Table in Netlab](https://www.youtube.com/watch?v=NRhRFB9gtqw&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=21)
 ## [22: How a Switch Forwards and Builds the MAC Address Table](https://www.youtube.com/watch?v=sdYDLip2ANI&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=22)
+## [27: Use netstat -r to examine the host computer's routing table](https://www.youtube.com/watch?v=vMT89y1kwbc&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=27)
+## [28: What are the different IPv4 Address Types?](https://www.youtube.com/watch?v=xGONJA9saG8&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=28)
+## [29: 15. CCNA Ch8 - Packet Tracer Demo of the Host Routing Table, Default Gateway and Remote Networks](https://www.youtube.com/watch?v=Ps0DBuvefVM&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=29)
+## [30: 16. CCNA Ch9 - Packet Tracer Demo - Observing ARP](https://www.youtube.com/watch?v=1QVvXRitLvQ&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=30)
+## [31: When do you need a default gateway?](https://www.youtube.com/watch?v=hI5L5IxqS-Y&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=31)
+## [32. When do you need the ARP protocol? -Wireshark](https://www.youtube.com/watch?v=o2LoG-83rp8&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=32)
+
+
 

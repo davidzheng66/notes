@@ -16,4 +16,6 @@
 * [IETF Documents](https://tools.ietf.org/html/)
 ## [14:The Three Layer Hierarchical Model, Topologies and Layer 1 Cabling](https://www.youtube.com/watch?v=BrnWO8v-59w&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=14)
 ## [15: 7. CCNA Ch4 - Physical Layer Media Types](https://www.youtube.com/watch?v=A2tL_jpdowY&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=15)
+## [16: Learning Subnetting Part 1 -Convert Decimal to Binary to Hexadecimal](https://www.youtube.com/watch?v=PZpGF25oES4&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=16)
+## [17:8. CCNA Ch5 - Converting Binary, Decimal, Hexadecimal, Octal and Base64 encoded numbers](https://www.youtube.com/watch?v=4nGgqLIKU9U&list=PLndqfxA_9SWEH6AHP9djFhqq7NAqClNyb&index=17)
 

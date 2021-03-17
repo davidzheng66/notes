@@ -182,3 +182,14 @@
 ## 29 [Socket](https://www.youtube.com/watch?v=u4kr7EFxAKk&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=82)
   * [Server code](https://github.com/davidzheng66/notes/blob/master/Python/code/test21-server.py)
   * [Client code](https://github.com/davidzheng66/notes/blob/master/Python/code/test21-client.py)
+## 30 [Python WiFi Scanner:David Bombal](https://www.youtube.com/watch?v=DFTwB2nAexs)
+ * [source code](https://github.com/davidbombal/red-python-scripts/blob/main/lanscan_arp.py)
+ * [videos](https://www.youtube.com/c/DavidBombal/videos)
+## 31 [Python nmap port scanner:David Bombal](https://www.youtube.com/watch?v=x4AE5yOF9pE)
+* Scripts using regex:
+  * [Socket method](https://github.com/davidbombal/red-python-scripts/blob/main/port_scanner_regex.py)
+  * [nmap method](https://github.com/davidbombal/red-python-scripts/blob/main/nmap_port_scanner.py)
+* Scripts using IP address:
+  * [Socket method]( https://github.com/davidbombal/red-python-scripts/blob/main/port_scanner_ip_obj.py)
+  * [nmap method](https://github.com/davidbombal/red-python-scripts/blob/main/nmap_port_scanner_ip_obj.py)
+

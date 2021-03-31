@@ -82,6 +82,9 @@ The second paragraph text
      * _git commit -a "comment"
      * _git pull origin_ "branch name"
      * _git push origin_ "branch name"
+       * git push --set-upstream origin topic/ECG-76132 or
+       * git push -u origin topic/ECG-76132 ? or
+       * git push origin topic/ECG-76132 
    * Create a branch for a desired feature
      * _git branch -b_ "branch name" or
      * _git branch_ "branch name" + _git checkout_ "branch name"

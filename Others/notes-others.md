@@ -155,26 +155,26 @@ The second paragraph text
   * _git rebase -i HEAD~3_, then change "pick" to "squash" for commits to be compressed"
   * _git rebase_"branch name"
     * To abort a rebase: _git rebase --abort_
-    
-## 9. [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet)
-## 10 [Setting up a Python Development Environment in Sublime Text - Corey Shafter](https://www.youtube.com/watch?v=xFciV6Ew5r4&list=PL-osiE80TeTtHH8BZngXEsLPGotQxZa6z&index=2)
+## 9 [Michael Heins Github](https://github.com/heinsm/configs/blob/master/configs/git/config_git.sh)    
+## 10. [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet)
+## 11 [Setting up a Python Development Environment in Sublime Text - Corey Shafter](https://www.youtube.com/watch?v=xFciV6Ew5r4&list=PL-osiE80TeTtHH8BZngXEsLPGotQxZa6z&index=2)
 * [Sublime Text Documentation](https://www.sublimetext.com/docs/3/multiple_selection_with_the_keyboard.html)
   * Find all of words: "Alt + F3", go back to a single word: "ESC"
-## [PKI(Public Key Infrastructure) Bootcamp](https://www.youtube.com/watch?v=q9vu6_2r0o4&list=PLDp2gaPHHZK-mnKi3Zy_-hRjqLHh5PaAv)
+## 12 [PKI(Public Key Infrastructure) Bootcamp](https://www.youtube.com/watch?v=q9vu6_2r0o4&list=PLDp2gaPHHZK-mnKi3Zy_-hRjqLHh5PaAv)
 * [Wiki](https://en.wikipedia.org/wiki/Public_key_infrastructure)
-## [Basic Cryptograhic Concepts:Public Keys, SSL Certificates, Hashing, SHA-2 : Matt Thomas](https://www.youtube.com/playlist?list=PL6TbWIxWsLY3XuAZB4C0_GxrR76TAZOf2)
-## GRPC
+## 13 [Basic Cryptograhic Concepts:Public Keys, SSL Certificates, Hashing, SHA-2 : Matt Thomas](https://www.youtube.com/playlist?list=PL6TbWIxWsLY3XuAZB4C0_GxrR76TAZOf2)
+## 14 GRPC
 * [Protocol Buffers Crash Course : Hussein Nasser](https://www.youtube.com/watch?v=46O73On0gyI)
 * [gRPC Crash Course - Modes, Examples, Pros & Cons and more](https://www.youtube.com/watch?v=Yw4rkaTc0f8)
 * [10000 Messages in 2.18 seconds with Python and gRPC : Sean Bradley](https://www.youtube.com/watch?v=dQK0VLahrDk)
-## Socket Programming in C++
+## 15 Socket Programming in C++
 * [Socket Programming in C/C++ : Varteta Learning Platform](https://www.youtube.com/watch?v=bqj4dWG7v3c&list=PLhnN2F9NiVmAMn9iGB_Rtjs3aGef3GpSm)
 * [Python Network Programming - TCP/IP Socket Programming : BuiltWithPython](https://www.youtube.com/watch?v=F5SabQHtgw4&list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF&index=15)
-## Redis In-Memory Database
+## 16 Redis In-Memory Database
 * [Redis In-Memory Database : Hussein Nasser](https://www.youtube.com/watch?v=sVCZo5B8ghE&list=PLQnljOFTspQXNP6mQchJVP3S-3oKGEuw9&index=3)
-## REST APIs:
+## 17 REST APIs:
 * [REST APIs Prons & Cons : Hussesin Nasser](https://www.youtube.com/watch?v=M3XQ6yEC51Q&list=PLQnljOFTspQXNP6mQchJVP3S-3oKGEuw9&index=1)
-## [How to set static IP in Ubuntu](https://linuxize.com/post/how-to-configure-static-ip-address-on-ubuntu-18-04/)
+## 18 [How to set static IP in Ubuntu](https://linuxize.com/post/how-to-configure-static-ip-address-on-ubuntu-18-04/)
 * _ip link_
 * Change "/etc/netplan/01-netcfg.yaml"
     network:

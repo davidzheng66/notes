@@ -190,3 +190,5 @@ The second paragraph text
             addresses: [8.8.8.8, 1.1.1.1]
 * _sudo netplan apply_
 * _ip addr show dev ens3_
+
+## 19 [nslookup](https://mxtoolbox.com/SuperTool.aspx?action=a%3awww.github.ford.com&run=toolpage)

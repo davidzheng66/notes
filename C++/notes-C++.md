@@ -73,4 +73,4 @@ Enabling this option will make gtest link the runtimes dynamically too, and matc
 An environment that supports C++11 is required in order to successfully build GoogleTest. One way to ensure this is to specify the standard in the top-level project, for example by using the set(CMAKE_CXX_STANDARD 11) command. If this is not feasible, for example in a C project using GoogleTest for validation, then it can be specified by adding it to the options for cmake via the DCMAKE_CXX_FLAGS option.
 
 # [MQTT client programming reference](https://www.ibm.com/docs/en/ibm-mq/7.5?topic=m2m-mqtt-client-programming-reference)
-  ## [MQTT Tutorial](https://www.youtube.com/watch?v=TSwgZn2FKUw&list=PLS1QulWo1RIbQWue3zzwEuV2pSASiDxvv)
+  * [MQTT Tutorial](https://www.youtube.com/watch?v=TSwgZn2FKUw&list=PLS1QulWo1RIbQWue3zzwEuV2pSASiDxvv)

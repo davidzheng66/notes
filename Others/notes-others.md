@@ -192,3 +192,4 @@ The second paragraph text
 * _ip addr show dev ens3_
 
 ## 19 [nslookup](https://mxtoolbox.com/SuperTool.aspx?action=a%3awww.github.ford.com&run=toolpage)
+## 20 [How to Get Started with MQTT](https://www.bing.com/videos/search?q=mqtt+tutorial&qpvt=mqtt+tutorial&view=detail&mid=18BAD14004474F97ABB418BAD14004474F97ABB4&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dmqtt%2Btutorial%26qpvt%3Dmqtt%2Btutorial%26FORM%3DVDRE)

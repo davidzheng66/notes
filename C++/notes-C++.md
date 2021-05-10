@@ -74,3 +74,4 @@ An environment that supports C++11 is required in order to successfully build Go
 
 # [MQTT client programming reference](https://www.ibm.com/docs/en/ibm-mq/7.5?topic=m2m-mqtt-client-programming-reference)
   * [MQTT Tutorial](https://www.youtube.com/watch?v=TSwgZn2FKUw&list=PLS1QulWo1RIbQWue3zzwEuV2pSASiDxvv)
+# [Protocol Buffer Basics: C++](https://developers.google.com/protocol-buffers/docs/cpptutorial)

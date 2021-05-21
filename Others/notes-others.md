@@ -16,6 +16,9 @@ This is a sub paragraph, formatted in heading 3 style
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
 
+## [Doxygen Documententation](#doxygen)
+## [Useful Network Commands in Windowns 10](#routetable)
+
 ## 1. [How to make the perfect Readme.md on GitHub](https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061)
 ## 2. [How to Setup SSH Keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2#:~:text=%20How%20To%20Set%20Up%20SSH%20Keys%20,keys%20onto%20your%20server%20and%20ensured...%20More%20)
 * [Video](https://www.youtube.com/watch?v=hQWRp-FdTpc)
@@ -193,4 +196,12 @@ The second paragraph text
 
 ## 19 [nslookup](https://mxtoolbox.com/SuperTool.aspx?action=a%3awww.github.ford.com&run=toolpage)
 ## 20 [How to Get Started with MQTT](https://www.bing.com/videos/search?q=mqtt+tutorial&qpvt=mqtt+tutorial&view=detail&mid=18BAD14004474F97ABB418BAD14004474F97ABB4&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dmqtt%2Btutorial%26qpvt%3Dmqtt%2Btutorial%26FORM%3DVDRE)
-## 21 [Doxgen Documententation](https://www.doxygen.nl/manual/index.html)
+## 21 [Doxygen Documententation](https://www.doxygen.nl/manual/index.html) <a name="doxygen"></a>
+## 22 [Useful Network Commands in Windowns 10](https://www.raymond.cc/blog/choosing-which-connection-to-use-with-windows-routing-table-editor-gui/)<a name="routetable">
+1. _ping_ 10.1.0.1
+2. _tracert_ 10.1.0.1
+3. _route print_
+4. _route add_ Destination-Address _mask_ Netmask _metric_ Metric-Cost _if_ Interface-Number: ie.
+    * _route add 10.1.0.0 mask 255.255.0.0 10.1.0.1 metric 5 if 15_
+    * _route -p add 10.1.0.0 mask 255.255.0.0 10.1.0.1 metric 5 if 15_
+

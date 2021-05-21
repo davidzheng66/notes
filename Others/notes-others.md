@@ -1,21 +1,4 @@
 # Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
-
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
-
 ## [Doxygen Documententation](#doxygen)
 ## [Useful Network Commands in Windowns 10](#routetable)
 
@@ -178,34 +161,44 @@ The second paragraph text
 ## 17 REST APIs:
 * [REST APIs Prons & Cons : Hussesin Nasser](https://www.youtube.com/watch?v=M3XQ6yEC51Q&list=PLQnljOFTspQXNP6mQchJVP3S-3oKGEuw9&index=1)
 ## 18 [How to set static IP in Ubuntu](https://linuxize.com/post/how-to-configure-static-ip-address-on-ubuntu-18-04/)
-* _ip link_
-* Change "/etc/netplan/01-netcfg.yaml"
-    network:
-      version: 2
-      renderer: networkd
-      ethernets:
-        ens3:
-        dhcp4: no
-        addresses:
-          - 192.168.121.199/24
-        gateway4: 192.168.121.1
-        nameservers:
-            addresses: [8.8.8.8, 1.1.1.1]
-* _sudo netplan apply_
-* _ip addr show dev ens3_
+    * _ip link_
+    * Change "/etc/netplan/01-netcfg.yaml"
+        network:
+          version: 2
+          renderer: networkd
+          ethernets:
+            ens3:
+            dhcp4: no
+            addresses:
+              - 192.168.121.199/24
+            gateway4: 192.168.121.1
+            nameservers:
+                addresses: [8.8.8.8, 1.1.1.1]
+    * _sudo netplan apply_
+    * _ip addr show dev ens3_
 
 ## 19 [nslookup](https://mxtoolbox.com/SuperTool.aspx?action=a%3awww.github.ford.com&run=toolpage)
 ## 20 [How to Get Started with MQTT](https://www.bing.com/videos/search?q=mqtt+tutorial&qpvt=mqtt+tutorial&view=detail&mid=18BAD14004474F97ABB418BAD14004474F97ABB4&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dmqtt%2Btutorial%26qpvt%3Dmqtt%2Btutorial%26FORM%3DVDRE)
 ## 21 [Doxygen Documententation](https://www.doxygen.nl/manual/index.html) <a name="doxygen"></a>
+    git clone https://github.com/doxygen/doxygen.git
+    cd doxygen
+    mkdir build
+    cd build
+    sudo apt-get install flex (it was missing so I had to install it before cmake)
+    sudo apt-get install bison(it was missing so I had to install it before cmake)
+    cmake -G "Unix Makefiles" ..
+    make
+    sudo make install
+    
 ## 22 [Useful Network Commands in Windowns 10](https://www.raymond.cc/blog/choosing-which-connection-to-use-with-windows-routing-table-editor-gui/)<a name="routetable">
-1. _ping_ 10.1.0.1
-2. _tracert_ 10.1.0.1
-3. _route print_
-4. Add a static route: _route add_ Destination-Address _mask_ Netmask _metric_ Metric-Cost _if_ Interface-Number, ie.
-    * Not persistent: _route add 10.1.0.0 mask 255.255.0.0 10.1.0.1 metric 5 if 15_ 
-    * Persistent: _route -p add 10.1.0.0 mask 255.255.0.0 10.1.0.1 metric 5 if 15_
-5. Update a route: _route change_ Destination-Address _mask_ Netmask _metric_ Metric-Cost _if_ Interface-Number: ie.
-    * _route change 10.1.0.0 mask 255.255.0.0 10.1.0.1 metric 5 if 15_
-6. _route delete_ Destination-Address: ie.
-    * _route delete 10.1.0.1_
+    1. _ping_ 10.1.0.1
+    2. _tracert_ 10.1.0.1
+    3. _route print_
+    4. Add a static route: _route add_ Destination-Address _mask_ Netmask _metric_ Metric-Cost _if_ Interface-Number, ie.
+        * Not persistent: _route add 10.1.0.0 mask 255.255.0.0 10.1.0.1 metric 5 if 15_ 
+        * Persistent: _route -p add 10.1.0.0 mask 255.255.0.0 10.1.0.1 metric 5 if 15_
+    5. Update a route: _route change_ Destination-Address _mask_ Netmask _metric_ Metric-Cost _if_ Interface-Number: ie.
+        * _route change 10.1.0.0 mask 255.255.0.0 10.1.0.1 metric 5 if 15_
+    6. _route delete_ Destination-Address: ie.
+        * _route delete 10.1.0.1_
 

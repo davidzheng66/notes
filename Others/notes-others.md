@@ -201,7 +201,11 @@ The second paragraph text
 1. _ping_ 10.1.0.1
 2. _tracert_ 10.1.0.1
 3. _route print_
-4. _route add_ Destination-Address _mask_ Netmask _metric_ Metric-Cost _if_ Interface-Number: ie.
-    * _route add 10.1.0.0 mask 255.255.0.0 10.1.0.1 metric 5 if 15_
-    * _route -p add 10.1.0.0 mask 255.255.0.0 10.1.0.1 metric 5 if 15_
+4. Add a static route: _route add_ Destination-Address _mask_ Netmask _metric_ Metric-Cost _if_ Interface-Number, ie.
+    * Not persistent: _route add 10.1.0.0 mask 255.255.0.0 10.1.0.1 metric 5 if 15_ 
+    * Persistent: _route -p add 10.1.0.0 mask 255.255.0.0 10.1.0.1 metric 5 if 15_
+5. Update a route: _route change_ Destination-Address _mask_ Netmask _metric_ Metric-Cost _if_ Interface-Number: ie.
+    * _route change 10.1.0.0 mask 255.255.0.0 10.1.0.1 metric 5 if 15_
+6. _route delete_ Destination-Address: ie.
+    * _route delete 10.1.0.1_
 

@@ -142,6 +142,21 @@
   * _git rebase_"branch name"
     * To abort a rebase: _git rebase --abort_
 ## 9 [Michael Heins Github](https://github.com/heinsm/configs/blob/master/configs/git/config_git.sh)    
+```
+git config --global core.editor nano
+git config --global merge.tool meld
+git config --global diff.tool meld
+
+#to use git difftool -d <branch1>..<branch2>
+#just type git da <branch1>..<branch2>
+git config --global alias.da 'difftool -d'
+git config --global alias.graph 'log --graph --all --decorate --color'
+
+git config --global alias.lg1 "log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all"
+git config --global alias.lg2 "log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)' --all"
+git config --global alias.lg !"git lg1"
+git config --list
+```
 ## 10. [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet)
 ## 11 [Setting up a Python Development Environment in Sublime Text - Corey Shafter](https://www.youtube.com/watch?v=xFciV6Ew5r4&list=PL-osiE80TeTtHH8BZngXEsLPGotQxZa6z&index=2)
 * [Sublime Text Documentation](https://www.sublimetext.com/docs/3/multiple_selection_with_the_keyboard.html)

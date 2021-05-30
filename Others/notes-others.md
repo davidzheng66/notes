@@ -141,7 +141,8 @@
   * _git rebase -i HEAD~3_, then change "pick" to "squash" for commits to be compressed"
   * _git rebase_"branch name"
     * To abort a rebase: _git rebase --abort_
-## 9 [Michael Heins Github](https://github.com/heinsm/configs/blob/master/configs/git/config_git.sh)    
+## 9 [Michael Heins Github](https://github.com/heinsm/configs/blob/master/configs/git/config_git.sh)
+The global config file is located in "~/.gitconfig"
 ```
 git config --global core.editor nano
 git config --global merge.tool meld

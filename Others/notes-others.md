@@ -141,6 +141,9 @@
   * _git rebase -i HEAD~3_, then change "pick" to "squash" for commits to be compressed"
   * _git rebase_"branch name"
     * To abort a rebase: _git rebase --abort_
+* [How can I determine the URL that a local Git repository was originally cloned from?](https://stackoverflow.com/questions/4089430/how-can-i-determine-the-url-that-a-local-git-repository-was-originally-cloned-fr)
+  * _git config --get remote.origin.url_
+  * _git remote show origin_  
 ## 9 [Michael Heins Github](https://github.com/heinsm/configs/blob/master/configs/git/config_git.sh)
 The global config file is located in "~/.gitconfig"
 ```

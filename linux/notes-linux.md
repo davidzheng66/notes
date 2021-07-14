@@ -33,4 +33,5 @@
 * Comment/Uncomment: _Ctrl+/_
 * Change font size: _Ctrl++_, _Ctrl+-_
 ## 5. [How to use Ubuntu in full screen mode on virtualbox?](https://askubuntu.com/questions/18425/how-to-use-ubuntu-in-full-screen-mode-on-virtualbox)
+## 6. [Linux Error Codes](https://www.thegeekstuff.com/2010/10/linux-error-codes/)
 

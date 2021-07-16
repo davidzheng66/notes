@@ -33,7 +33,7 @@
 * Comment/Uncomment: _Ctrl+/_
 * Change font size: _Ctrl++_, _Ctrl+-_
 ## 5. [How to use Ubuntu in full screen mode on virtualbox?](https://askubuntu.com/questions/18425/how-to-use-ubuntu-in-full-screen-mode-on-virtualbox)
-## 6. [Linux Error Codes](https://www.thegeekstuff.com/2010/10/linux-error-codes/)
+## 6. [Linux Error Codes](https://www.thegeekstuff.com/2010/10/linux-error-codes/), [Linux Signals](https://man7.org/linux/man-pages/man7/signal.7.html)
 ## 7. Upgrade gcc
  *  ```
     add-apt-repository ppa:ubuntu-toolchain-r/test

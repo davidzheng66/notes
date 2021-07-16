@@ -34,4 +34,30 @@
 * Change font size: _Ctrl++_, _Ctrl+-_
 ## 5. [How to use Ubuntu in full screen mode on virtualbox?](https://askubuntu.com/questions/18425/how-to-use-ubuntu-in-full-screen-mode-on-virtualbox)
 ## 6. [Linux Error Codes](https://www.thegeekstuff.com/2010/10/linux-error-codes/)
+## 7. Upgrade gcc
+ *  ```
+    add-apt-repository ppa:ubuntu-toolchain-r/test
+    apt-get update
+ 
+    //or manually into sources.list
+    //deb http://ppa.launchpad.net/ubuntu-toolchain-r/test/ubuntu precise main  
+    //deb-src http://ppa.launchpad.net/ubuntu-toolchain-r/test/ubuntu precise main
+    //run
+    //apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 1E9377A2BA9EF27F
+    //apt-get update
 
+    apt-get install g++-9
+    update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-9 5
+    update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-9 5
+    update-alternatives --config gcc
+    # select version 9.4
+    update-alternatives --config g++
+    # select versioon 9.4
+ 
+    or
+    $ sudo add-apt-repository "deb http://dk.archive.ubuntu.com/ubuntu/ bionic main"
+    $ sudo add-apt-repository "deb http://dk.archive.ubuntu.com/ubuntu/ bionic universe"
+    $ sudo apt update
+    $ sudo apt install gcc-5 g++-5
+    ```
+  
